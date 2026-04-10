@@ -12,21 +12,13 @@
 
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=0A66C2 &center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%26+Data+Analytics+Enthusiast;Building+Intelligent+Systems+%26+Projects" />
 </p>
 
-## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+
 
 ## 🎯 Professional Summary  
 
@@ -41,21 +33,19 @@ Strong interest in:
 
 ---
 
-## ⚡ Core Skills  
+## ⚡ Tech Stack
 
-- **Programming:** Python  
-- **Libraries & Tools:** NumPy, Pandas, Matplotlib, OpenCV  
-- **Frameworks:** TensorFlow, Keras, Streamlit  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-**Concepts:**
-- Supervised & Unsupervised Learning  
-- Feature Engineering  
-- Model Evaluation & Optimization  
-- Deep Learning (CNNs)  
-
----
-
-## 🚀 Key Projects  
+## 🚀  Projects  
 
 ### 🖼️ Image Classification using CNN  
 Developed a deep learning-based image classification model using **Convolutional Neural Networks (CNNs)** to classify images into multiple categories with high accuracy.  
@@ -65,7 +55,7 @@ Developed a deep learning-based image classification model using **Convolutional
 - Designed for real-world applicability  
 
 📌 **Tech Stack:** Python, TensorFlow, Keras, OpenCV  
-
+🔗 *Repo:* https://github.com/jain-sheetal/CNN-Project
 ---
 
 ### 🔫 Weapon Detection System  
@@ -76,7 +66,7 @@ Designed an intelligent system to detect weapons in images using **Computer Visi
 - Focused on real-time implementation  
 
 📌 **Tech Stack:** Python, OpenCV, Deep Learning  
-
+🔗 *Repo:* https://github.com/jain-sheetal/CNN-Project
 ---
 
 ## ⚙️ What I Do  
