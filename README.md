@@ -8,7 +8,8 @@
 ---
 <p align="center">
 
-<img width="900" height="200" alt="SHEETAL JAIN" src=""C:\Users\sheet\Downloads\KRATARTH SRIVASTAVA.png"" />
+<img width="900" height="200" alt="SHEETAL JAIN" src="<img width="600" height="200" alt="KRATARTH SRIVASTAVA" src="https://github.com/user-attachments/assets/4095a387-306f-4e9f-a72b-75c513e209be" />
+" />
 </p>
 
 <p align="center">
