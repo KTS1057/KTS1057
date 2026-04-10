@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=A0A3DE&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%26+Data+Analytics+Enthusiast;Building+Intelligent+Systems+%26+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=0A66C2 &center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%26+Data+Analytics+Enthusiast;Building+Intelligent+Systems+%26+Projects" />
 </p>
 
 ## ⚡ Tech Stack
@@ -90,8 +90,8 @@ Designed an intelligent system to detect weapons in images using **Computer Visi
 
 ## 📫 Connect With Me  
 
-- 📧 Email: your-email-here  
-- 🔗 LinkedIn: your-linkedin-here  
+- 📧 Email: kratarthsrivastava16@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/kratarth-srivastava/
 
 ---
 
