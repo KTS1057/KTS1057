@@ -66,7 +66,7 @@ Designed an intelligent system to detect weapons in images using **Computer Visi
 - Focused on real-time implementation  
 
 📌 **Tech Stack:** Python, OpenCV, Deep Learning  
-🔗 *Repo:* https://github.com/jain-sheetal/CNN-Project
+
 ---
 
 ## ⚙️ What I Do  
