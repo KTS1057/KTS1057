@@ -55,7 +55,7 @@ Developed a deep learning-based image classification model using **Convolutional
 - Designed for real-world applicability  
 
 📌 **Tech Stack:** Python, TensorFlow, Keras, OpenCV  
-🔗 *Repo:* https://github.com/jain-sheetal/CNN-Project
+🔗 *Repo:* https://github.com/KTS1057/Image-Classification-using-CNN
 ---
 
 ### 🔫 Weapon Detection System  
