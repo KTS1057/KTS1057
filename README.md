@@ -8,7 +8,7 @@
 ---
 <p align="center">
 
-<img width="650" height="250" alt="KRATARTH SRIVASTAVA" src="https://github.com/user-attachments/assets/ca88da5f-0ad3-4fa2-a0e9-c1580813c184" />
+<img width="750" height="230" alt="KRATARTH SRIVASTAVA" src="https://github.com/user-attachments/assets/ca88da5f-0ad3-4fa2-a0e9-c1580813c184" />
 
 </p>
 
