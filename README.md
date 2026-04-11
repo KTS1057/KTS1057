@@ -54,7 +54,8 @@ Developed a deep learning-based image classification model using **Convolutional
 - Achieved strong performance on labeled datasets  
 - Designed for real-world applicability  
 
-📌 **Tech Stack:** Python, TensorFlow, Keras, OpenCV  
+
+📌 *Built With:* Python • TensorFlow • Keras • OpenCV • Streamlit  
 🔗 *Repo:* https://github.com/KTS1057/Image-Classification-using-CNN
 ---
 
