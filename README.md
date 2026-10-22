@@ -147,16 +147,18 @@ All repositories are publicly available and actively maintained on my profile:
 
 ---
 
-### 5. [Deep Learning Image Classification (Cat vs Dog)](https://github.com/KTS1057/IMAGE_CLASSIFICATION)
+### 5. [AI Vision Classifier — Animals, Fruits & Multi-Category Recognition](https://github.com/KTS1057/IMAGE_CLASSIFICATION)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit)](https://imageclassification-9dbztmit3lrgj9yj3npfxb.streamlit.app/)
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/KTS1057/IMAGE_CLASSIFICATION)
-[![Architecture](https://img.shields.io/badge/Model-CNN_Binary_Classifier-orange?style=flat-square)](https://github.com/KTS1057/IMAGE_CLASSIFICATION)
+[![Model](https://img.shields.io/badge/Model-MobileNetV2_%2B_Custom_CNN-FF6F00?style=flat-square)](https://github.com/KTS1057/IMAGE_CLASSIFICATION)
 
-*Interactive deep learning image recognition platform trained using Convolutional Neural Networks.*
+*Multi-category deep learning visual recognition engine identifying over 1,000 classes of wild & domestic animals, fruits, vegetables, and everyday objects.*
 
-- **CNN Classification:** Utilizes a trained deep learning model (`CAT_DOG_MODEL.h5`) for binary image recognition.
-- **Seamless Web Interface:** Real-time drag-and-drop image upload supporting JPEG/PNG with instant prediction feedback.
-- **Tech Stack:** `Python` • `TensorFlow` • `Keras` • `Streamlit` • `PIL`
+- **Dual-Engine Architecture:** Combines pre-trained MobileNetV2 Transfer Learning for 1,000+ classes with a custom binary CNN (`CAT_DOG_MODEL.h5`).
+- **Domain-Specific Metadata:** Automatically surfaces biological taxonomy & trivia for animals and caloric/nutritional density profiles for fruits and produce.
+- **Visual Explainability & Camera Input:** Features real-time webcam snapshot inference, convolutional edge/gradient feature maps, and Top-5 confidence rankings.
+- **Turnkey Fine-Tuning Pipeline:** Includes `train_custom_dataset.py` for training on custom Kaggle datasets (e.g. Fruits-360, Animals-10).
+- **Tech Stack:** `Python` • `TensorFlow` • `Keras` • `MobileNetV2` • `Streamlit` • `Pillow`
 
 ---
 
